@@ -1,15 +1,7 @@
-# Chamada para Trabalhos
+# Node.js Ceará - Meetups
 
-##  Como submeter uma proposta de trabalho para um evento?
-Adicione um comentário na [issue](https://github.com/nugce/events-cfp/issues) referente ao evento desejado com as informações seguindo o template abaixo: 
+#### Call For Papers
 
-[Título]
+#### Próximos meetups
 
-[Duração HH:MM]
-
-[Descrição curta]
-
-[Descrição longa]
-
-## Como votar em uma proposta de trabalho?
-Use :+1: e :-1: para avaliar de forma possitiva ou negativa, respectivamente. 
+[7º meetup Node.js Ceará](https://github.com/nugce/meetups/tree/master/7-meetup)
