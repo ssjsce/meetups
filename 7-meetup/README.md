@@ -1,4 +1,4 @@
-## 1º Meetup Node.js Ceará
+## 7º Meetup Node.js Ceará
 
 Voltamos :D **Dia 15 de janeiro** estaremos no **[IFCE](https://www.google.com/maps/place/IFCE+-+Instituto+Federal+Cear%C3%A1+%7C+Campus+Fortaleza/@-3.7444222,-38.5384183,17z/data=!3m1!4b1!4m5!3m4!1s0x7c7491a5cfc50e5:0x35b7fad8eb59ba84!8m2!3d-3.7444222!4d-38.5362296)** realizando nosso 7º meetup. :D
 
