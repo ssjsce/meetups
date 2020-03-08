@@ -6,6 +6,6 @@
 
 Em breve
 
-#### Meetups anteiores
+#### Meetups anteriores
 
 [7º meetup Node.js Ceará](https://github.com/nugce/meetups/tree/master/7-meetup)
