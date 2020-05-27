@@ -1,4 +1,4 @@
-# Node.js Ceará - Meetups
+# SSJS Ceará - Meetups
 
 #### Call For Papers
 
